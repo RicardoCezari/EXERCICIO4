@@ -1,4 +1,3 @@
-
 public class Temperatura 
 {
     double converterParaCelsius(double tempFerenheit)

@@ -38,8 +38,6 @@ public class Casa
         this.porta1= p3;
     }
     
-  
-    
     void pinta(String s)
     {
         this.cor = s;
