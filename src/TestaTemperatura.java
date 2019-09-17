@@ -1,4 +1,3 @@
-
 public class TestaTemperatura 
 {
     public static void main(String[] args)
