@@ -1,4 +1,3 @@
-
 public class Porta {
     private boolean aberta;
     private String cor;

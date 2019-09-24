@@ -4,8 +4,8 @@ public class TestaAluno {
     {
         Aluno a1 = new Aluno();
         
-        a1.setNome("Maike Soares ");
-        a1.setCpf ("000.000.000-00");
+        a1.setNome("Ricardo Cézari ");
+        a1.setCpf ("111.111.111-11");
         
         Data d1 = new Data();
         d1.setDia (03);
